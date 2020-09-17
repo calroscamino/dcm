@@ -1,4 +1,4 @@
-# vpn script for openconnect
+# vpn script for opconnect
 
 ```
 #----- How to install
